@@ -30,7 +30,7 @@ Line Bot +　Flask + Mongodb + Google Stock API
 
 * 目前所選的股票即時報價
 
-    /reltime
+    /realtime
 
 * 啟動自動看盤功能
 

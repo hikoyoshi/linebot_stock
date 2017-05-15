@@ -51,7 +51,7 @@ def Usage(event):
     push_msg(event,"add:stock_code\n ex -> add:0050 (目前只能單張增加)\
                     \ndel:stock_code\n ex -> del:0050 (目前只能單張刪除)\
                     \n/stocks  查詢已登記的股票\
-                    \n/reltime 目前所選的股票即時報價\
+                    \n/realtime 目前所選的股票即時報價\
                     \n/start  啟動自動看盤功能，當漲幅超過5%下跌超過4%時會給予提醒\
                     \n預設於下午1:30分收盤時自動停止\
                     \n/end  手動結束自動看盤\
